@@ -15,8 +15,8 @@ window.onload = init;
 /* ADD YOUR CODE BELOW */
 for(var i =0;i< wordsList.length;i++)
 { var(input == wordsList[i]){
-  var wordsList == wordsList[i] "password is valid"
-  var wordsList < wordsList[i] <p> "password not valid find another" </p>
+  var wordsList == wordsList[i] <p> "password is valid" <\p>
+  var wordsList < wordsList[i] <p> "password not valid find another" <\p>
   
      }
 
