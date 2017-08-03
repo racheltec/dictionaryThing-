@@ -13,6 +13,12 @@ function init() {
 window.onload = init;
 
 /* ADD YOUR CODE BELOW */
+for(var i =0;i< wordsList.length;i++)
+{ var(input == wordsList[i]){
+  var wordsList == wordsList[i] "password is valid"
+  var wordsList < wordsList[i] "password not valid find another"
+  
+     }
 
 function checkPassword() {
 
