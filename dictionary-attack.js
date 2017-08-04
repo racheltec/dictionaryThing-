@@ -18,8 +18,7 @@ function checkPassword() {
   for(var i = 0; i< wordList.length; i++){ 
     if(input == wordList[i]){
       alert("password is in valid");
-}
- if(input == wordList[>i]{
+ else(input == wordList[>i]{
     alert("password is good");
     }
     
