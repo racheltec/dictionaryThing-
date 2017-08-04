@@ -17,9 +17,8 @@ window.onload = init;
 function checkPassword() {
   for(var i = 0; i< wordList.length; i++){ 
     if(input == wordList[i]){
-      alert("password is in valid");
- else(input == wordList[>i]{
-    alert("password is good");
+    else(input == wordList[>i]
+    
     }
     
     
