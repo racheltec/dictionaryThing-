@@ -15,11 +15,12 @@ window.onload = init;
 /* ADD YOUR CODE BELOW */
 
 function checkPassword() {
-  for(var i = 0; i< wordList.length; i++){ 
-    if(input == wordList[i]){
-    else(input == wordList[>i]
-    
+  var pass = document.getElementbyId("pw").value
+  for(var i = 0; i < wordsList.length; i++){ 
+     if(pass == wordsList[i]){
+      document.getElementbyId("results").innerHTML = "password not valid"
     }
-    
+     
+ }
     
     
